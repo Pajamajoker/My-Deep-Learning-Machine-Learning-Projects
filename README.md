@@ -1,34 +1,40 @@
-# 🚀 **ALL SYSTEM DESIGN PROJECTS IN ONE PLACE** 🚀
+# 🚀 **ALL MACHINE LEARNING & DEEP LEARNING PROJECTS IN ONE PLACE** 🚀
 
-> **WELCOME TO THE ULTIMATE COLLECTION OF SYSTEM DESIGN PROJECTS!**  
-> This repo is a **hub** for **Low-Level (LLD)** and **High-Level (HLD)** system designs that I've built—professional **and** personal. All the projects are **submodules** linking to their individual repos, allowing you to dive deeper into each one.
+> **WELCOME TO THE ULTIMATE COLLECTION OF MACHINE LEARNING & DEEP LEARNING PROJECTS!**  
+> This repo is a **hub** for the cutting-edge **ML** and **DL** models I've developed—professional **and** personal. All the projects are **submodules**, linking to their individual repositories, allowing you to explore the code and concepts in depth.
 
 ---
 
 ### **PROJECTS INCLUDED SO FAR:**
 
-1️⃣ **[Banking-System-LLD-Code](#)**  
-   - Low-Level Design for a complete **Banking System** with working code and unit tests.
+1️⃣ **[ResUNetPlusPlus_CNN_Polyp_Segmentation](#)**  
+   - Deep Learning model using **ResUNet++ CNN** architecture for **polyp segmentation** in medical images.  
+   - End-to-end implementation with model training, evaluation, and segmentation results.
 
-2️⃣ **[High-Freq-Trading-Model-And-Design-UBS-Learning-Project](#)**  
-   - High-Frequency Trading System Design with both HLD and LLD for a **UBS** project.
+2️⃣ **[Pyramid-Vision-Transformer-Polyp-Segmentation](#)**  
+   - Leveraging **Pyramid Vision Transformer (PVT)** for **polyp segmentation** in medical images.  
+   - A transformer-based approach to achieve high accuracy in complex image segmentation tasks.
 
-3️⃣ **[Tic-Tac-Toe-SOLID-Principles-Code](#)**  
-   - A **Tic-Tac-Toe** game built with **SOLID principles** and unit tests for maintainable code.
+3️⃣ **[Custom-KMeans-Implementation-Using-Pytorch](#)**  
+   - A custom **K-Means** clustering algorithm implemented using **PyTorch**.  
+   - Fully customizable code with visualization and various distance metrics for clustering.
 
 ---
 
 ### **WHAT'S INSIDE?**  
-This repo contains all my major system designs, with **submodules** for each individual project repo. Expect:
+This repo is your go-to resource for my **ML** and **DL** projects, featuring **submodules** for each individual project. You can expect:
 
-- Real-world system design challenges  
-- Modular code with solid architecture  
-- Unit tests for validation and reliability  
-- Clear and concise documentation for each design
+- Real-world Machine Learning and Deep Learning models  
+- High-quality code with modular design  
+- Detailed documentation on model architecture, training, and evaluation  
+- Full project code, including data preprocessing, training scripts, and results
+
+---
 
 ### **LET'S CONNECT!**  
 I’d love to hear from you! Feel free to reach out or follow me on any of these platforms:
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/prathamesh-j-9b9970147/)
-- **Email:** psj.pratham@gmail.com
-Let’s collaborate and build awesome things together! 🚀
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/prathamesh-j-9b9970147/)  
+- **Email:** [psj.pratham@gmail.com](mailto:psj.pratham@gmail.com)
+
+Let’s collaborate and build amazing ML/DL projects together! 🚀
