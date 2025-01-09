@@ -1,0 +1,9 @@
+[submodule "1-ResUNetPlusPlus_CNN_Polyp_Segmentation"]
+	path = 1-ResUNetPlusPlus_CNN_Polyp_Segmentation
+	url = https://github.com/Pajamajoker/Polyp-Detection-ResUNetPlusPlus
+[submodule "2-Pyramid-Vision-Transformer-Polyp-Segmentation"]
+	path = 2-Pyramid-Vision-Transformer-Polyp-Segmentation
+	url = https://github.com/Pajamajoker/Polyp-Detection-Pyramid-Vision-Transformer
+[submodule "3-Custom-KMeans-Implementation-Using-PyTorch-whichwasOverKill:P"]
+	path = 3-Custom-KMeans-Implementation-Using-PyTorch-whichwasOverKill:P
+	url = https://github.com/Pajamajoker/Custom-KMeans-PyTorch
