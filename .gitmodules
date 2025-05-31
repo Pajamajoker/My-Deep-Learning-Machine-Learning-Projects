@@ -7,3 +7,6 @@
 [submodule "3-Custom-KMeans-Implementation-Using-PyTorch-whichwasOverKill:P"]
 	path = 3-Custom-KMeans-Implementation-Using-PyTorch-whichwasOverKill:P
 	url = https://github.com/Pajamajoker/Custom-KMeans-PyTorch
+[submodule "4-NASA_CMAPSS_Jet_Engine_Data_Predictive_Maintainance"]
+	path = 4-NASA_CMAPSS_Jet_Engine_Data_Predictive_Maintainance
+	url = git@github.com:Pajamajoker/NASA_CMAPSS_Jet_Engine_Data_Predictive_Maintainance.git
