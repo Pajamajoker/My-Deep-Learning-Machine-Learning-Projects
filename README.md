@@ -19,6 +19,13 @@
    - A custom **K-Means** clustering algorithm implemented using **PyTorch**.  
    - Fully customizable code with visualization and various distance metrics for clustering.
 
+4️⃣ **[RUL-Prediction-CMAPSS](#)**  
+   - Predicting **Remaining Useful Life (RUL)** of aircraft engines using the **NASA CMAPSS dataset**.  
+   - Complete ML pipeline with preprocessing, feature engineering, model evaluation, and simulated production deployment.  
+   - Final model: **Support Vector Regressor (SVR)** with best performance.  
+   - 📄 [**Project Slides**](https://docs.google.com/presentation/d/18JEjDlT24bjkFT8RdOxX__Coai8zP3engZf0OW3rmfM/edit?usp=sharing)  
+   - 🎥 [**Demo Video**](https://youtu.be/CFQKT3Tm67g)
+
 ---
 
 ### **WHAT'S INSIDE?**  
